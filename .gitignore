@@ -97,3 +97,17 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+Unity/GPT_scene1/api_key.json
+Unity/GPT_scene2/api_key.json
+Unity/GPT_scene3/api_key.json
+Unity/GPT_scene4/api_key.json
+Unity/GPT_scene5/api_key.json
+Unity/GPT_scene6/api_key.json
+Unity/GPT_scene7/api_key.json
+Unity/GPT_scene1/api_key.json.meta
+Unity/GPT_scene2/api_key.json.meta
+Unity/GPT_scene3/api_key.json.meta
+Unity/GPT_scene4/api_key.json.meta
+Unity/GPT_scene5/api_key.json.meta
+Unity/GPT_scene6/api_key.json.meta
+Unity/GPT_scene7/api_key.json.meta
